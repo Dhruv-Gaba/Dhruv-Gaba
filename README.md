@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 Frontend developer with a passion for clean code and captivating user experiences. <br>Let's build something awesome together! 👽
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Dhruv-Gaba&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv._.gaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-gaba-aa7441274/) 
 
