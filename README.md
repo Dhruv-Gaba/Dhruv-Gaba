@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 <p align=center>
-Frontend developer with a passion for clean code and captivating user experiences. <br>Let's build something awesome together! 👽
+Full Stack developer with a passion for clean code and captivating user experiences. <br>Let's build something awesome together! 👽
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Dhruv-Gaba&icon=2&color=0)](https://visitcount.itsvg.in)
